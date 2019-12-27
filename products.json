@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Name": "Coca-Cola",
+    "Price": 40,
+    "Path": "cola.jpg",
+    "Quantity": 10
+  },
+  {
+    "Name": "Pepsi-Cola",
+    "Path": "sprite.jpg",
+    "Price": 60,
+    "Quantity": 2
+  }
+]
